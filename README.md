@@ -5,6 +5,8 @@
 
 Site criado para portáteis, mas também visando ser responsivo para outras plataformas.
 
+para acessar: https://alurabooksinterface.vercel.app/
+
 **Propósito:**
 <br>
 Melhorar o css
